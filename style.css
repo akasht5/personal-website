@@ -1,3 +1,7 @@
+:root{
+    --animate-duration:600ms;
+   --animate-delay:0.3s;
+}
 body *{
     box-sizing: border-box;
 }
